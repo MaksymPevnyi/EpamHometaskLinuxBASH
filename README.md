@@ -1,1 +1,2 @@
-# EpamHometaskLinuxBASH
+#Maksym Pevnyi 
+#EpamHometaskLinuxBash
